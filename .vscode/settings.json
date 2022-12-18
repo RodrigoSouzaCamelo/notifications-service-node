@@ -10,5 +10,7 @@
       "repositories": "mappings",
       "http": "container",
       "dtos": "typescript",
+      "mappers": "meta",
+      "viewModels": "views",
    }
 }
